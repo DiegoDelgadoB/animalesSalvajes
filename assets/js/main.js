@@ -82,7 +82,6 @@ let datosAnimales = (() => {
 
 
 
-
             limpiar();
         })
         let limpiar = () => {
